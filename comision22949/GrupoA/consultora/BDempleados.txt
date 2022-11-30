@@ -1,0 +1,12 @@
+Leandro Silva,8,12345543,Arroyo Seco,Estudiante,False
+Hugo Perez,45,34561234,Arroyo Seco,Vendedor,True
+Ruben Gonsalez,45,23123456,Rosario,Tecnico,True
+Raul Garcia,56,23678125,Fighiera,Vendedor,False
+Ruperto Garcia,45,12345673,Arroyo Seco,Vendedor,True
+Daniela Perez,23,12324234,Arroyo Seco,Gamer,False
+Roberto Cata,48,23123453,Rosario,Vendedor,True
+Daniela Pereira,23,12765234,Arroyo Seco,Vendedor,True
+Diego,23,12345678,Arroyo Seco,Estudiante,True
+Danilo,23,12345678,Arroyo Seco,Vendedor,True
+Ruth Vaccari,34,23453890,Arroyo Seco,Vendedor,True
+Fer Mas,44,33,Cam,Docente,True
